@@ -1,0 +1,2 @@
+Prefix plugins/GPUTrapezoid/example
+Plugin GPUTrapezoid inputfile parameters.txt outputfile none

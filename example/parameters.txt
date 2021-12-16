@@ -1,0 +1,6 @@
+nTrapsPow2	2046
+nSumsPow2	10
+x1	1
+x2	4
+answer	21
+epsilon	0.01
